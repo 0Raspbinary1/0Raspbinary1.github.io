@@ -1,5 +1,5 @@
 ---
-title: Meine GitHub-Seite
+title: 0Raspbinary1
 layout: default
 ---
 
@@ -16,4 +16,4 @@ Ich bin ein Entwickler, der gerne Projekte erstellt und lernt.
 - **Projekt C**: Machine Learning
 
 ## Kontakt
-- GitHub: [Mein GitHub-Profil](https://github.com/deinbenutzername)
+- GitHub: [Mein GitHub-Profil](https://github.com/0Raspbinary1)
