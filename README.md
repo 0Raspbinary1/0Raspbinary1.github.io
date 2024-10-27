@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meine GitHub-Seite
+css: style.css
 ---
 
 # Willkommen auf meiner GitHub-Seite!
