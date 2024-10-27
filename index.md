@@ -1,6 +1,7 @@
 ---
 title: 0Raspbinary1
 layout: default
+css: style.css
 ---
 
 # Willkommen auf meiner GitHub-Seite!
